@@ -13,7 +13,7 @@ dependencies:
 
   archive: ^3.3.1
 
-  flat_buffers: ^2.0.5
+  flat_buffers: ^23.5.26
 
   kana_kit: ^2.0.0
 
